@@ -10,6 +10,8 @@ nokogiri = Nokogiri::HTML(source)
 
 rows = nokogiri.css("#CGY_skaters tbody tr")
 
+rows_goalie = nokogiri.css("#CGY_goalies tbody tr")
+
 csv_string = CSV.generate do |csv|
   rows.each do |row|
 
@@ -33,6 +35,17 @@ csv_string = CSV.generate do |csv|
       row.css("td:nth-child(18)").text
     ]
   end
+
+  rows_goalie.each do |row|
+    csv << [
+      row.css("td:nth-child(2) a").text,
+      "G",
+      row.css("td:nth-child(4)").text,
+      row.css("td:nth-child(5)").text,
+      row.css("td:nth-child(10)").text
+    ]
+  end
+
 end
 
 puts csv_string
