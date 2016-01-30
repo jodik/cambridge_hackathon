@@ -13,6 +13,19 @@ rows = nokogiri.css("#CGY_skaters tbody tr")
 rows_goalie = nokogiri.css("#CGY_goalies tbody tr")
 
 csv_string = CSV.generate do |csv|
+
+  rows_goalie.each do |row|
+    csv << [
+      row.css("td:nth-child(2) a").text,
+      "G",
+      row.css("td:nth-child(4)").text,
+      row.css("td:nth-child(5)").text,
+      row.css("td:nth-child(10)").text
+    ]
+  end
+
+  csv << []
+
   rows.each do |row|
 
     url_sub = "http://www.hockey-reference.com" + row.css("td:nth-child(2) a").attr("href")
@@ -34,16 +47,7 @@ csv_string = CSV.generate do |csv|
       row.css("td:nth-child(15)").text,
       row.css("td:nth-child(18)").text
     ]
-  end
 
-  rows_goalie.each do |row|
-    csv << [
-      row.css("td:nth-child(2) a").text,
-      "G",
-      row.css("td:nth-child(4)").text,
-      row.css("td:nth-child(5)").text,
-      row.css("td:nth-child(10)").text
-    ]
   end
 
 end
