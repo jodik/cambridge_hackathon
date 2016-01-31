@@ -1,0 +1,1379 @@
+1 http://www.hockey-reference.com/boxscores/201410080BOS.html 2014-10-08 "Philadelphia Flyers" "Boston Bruins" 1 2
+"Steve Mason" G 2 33 58:43
+
+"Jason Akeson" RW 0 0 0 1 8:23
+"Pierre-Edouard Bellemare" LW 0 0 0 0 10:08
+"Braydon Coburn" D 0 0 1 3 20:02
+"Sean Couturier" C 1 0 1 3 19:31
+"Michael Del Zotto" D 0 0 -1 1 20:22
+"Claude Giroux" CRW 0 0 -1 1 20:17
+"Nicklas Grossmann" D 0 0 0 2 17:46
+"Vincent Lecavalier" C 0 0 0 2 15:50
+"Andrew MacDonald" D 0 0 1 2 21:51
+"Michael Raffl" LW 0 0 0 0 12:16
+"Matt Read" RW 0 1 1 0 19:57
+"Zac Rinaldo" C 0 0 0 4 8:31
+"Brayden Schenn" C 0 0 -1 1 17:10
+"Luke Schenn" D 0 0 -1 0 15:59
+"Wayne Simmonds" RW 0 0 0 0 16:13
+"Mark Streit" D 0 0 0 0 20:55
+"R.J. Umberger" C 0 0 0 0 13:35
+"Jakub Voracek" RW 0 1 0 0 19:36
+
+"Tuukka Rask" G 1 20 59:57
+
+"Patrice Bergeron" C 0 1 0 3 19:23
+"Zdeno Chara" D 0 0 -1 3 21:17
+"Craig Cunningham" RW 0 0 0 1 11:53
+"Loui Eriksson" LW 0 0 1 3 18:19
+"Matt Fraser" LW 0 0 0 1 10:16
+"Dougie Hamilton" D 0 0 -1 1 18:19
+"Chris Kelly" CLW 1 0 1 1 15:44
+"Torey Krug" D 0 0 1 5 17:20
+"Milan Lucic" LW 0 0 0 0 15:22
+"Brad Marchand" LW 0 0 -1 1 18:16
+"Adam McQuaid" D 0 1 1 3 21:47
+"Kevan Miller" D 0 0 0 0 19:49
+"Daniel Paille" LW 0 0 0 1 11:59
+"Bobby Robins" C 0 0 0 0 6:58
+"Dennis Seidenberg" D 0 0 0 4 21:10
+"Reilly Smith" RW 1 0 -1 3 17:02
+"Carl Soderberg" C 0 2 0 1 17:08
+"Ryan Spooner" C 0 0 0 2 12:01
+
+2 http://www.hockey-reference.com/boxscores/201410080CGY.html 2014-10-08 "Vancouver Canucks" "Calgary Flames" 4 2
+"Ryan Miller" G 2 25 60:00
+
+"Kevin Bieksa" D 0 0 2 2 20:26
+"Nick Bonino" C 0 0 0 0 16:14
+"Alexandre Burrows" LW 1 0 0 2 15:52
+"Derek Dorsett" RW 0 0 -2 1 9:35
+"Alexander Edler" D 0 0 -2 2 22:24
+"Dan Hamhuis" D 0 1 1 1 20:27
+"Jannik Hansen" LW 0 0 -2 1 9:54
+"Chris Higgins" LW 0 0 0 3 16:23
+"Zack Kassian" RW 1 0 1 3 12:27
+"Shawn Matthias" C 0 0 -2 1 9:39
+"Brad Richardson" C 0 2 2 3 13:43
+"Luca Sbisa" D 0 0 0 1 18:34
+"Daniel Sedin" LW 0 1 1 1 18:11
+"Henrik Sedin" C 1 1 2 1 19:42
+"Ryan Stanton" D 0 0 2 5 17:34
+"Chris Tanev" D 0 2 -1 2 19:45
+"Linden Vey" RW 0 1 1 0 13:26
+"Radim Vrbata" RW 1 0 2 4 17:44
+
+"Jonas Hiller" G 3 32 58:39
+
+"Mikael Backlund" C 0 0 -3 3 17:46
+"Brandon Bollig" LW 0 0 0 2 10:56
+"Lance Bouma" C 0 0 -2 0 12:39
+"T.J. Brodie" D 0 0 0 2 24:48
+"Paul Byron" C 1 0 0 1 14:45
+"Joe Colborne" C 0 1 1 0 18:12
+"Deryk Engelland" D 0 0 1 0 15:45
+"John Gaudreau" LW 0 0 1 1 16:04
+"Mark Giordano" D 0 1 -1 2 25:39
+"Curtis Glencross" C 0 0 0 4 19:10
+"Jiri Hudler" C 1 0 0 3 18:04
+"Brian McGrattan" RW 0 0 0 0 7:14
+"Sean Monahan" C 0 1 1 1 17:43
+"Mason Raymond" LW 0 0 -2 2 16:59
+"Kris Russell" D 0 0 0 0 20:49
+"Ladislav Smid" D 0 0 -1 2 16:10
+"Matt Stajan" C 0 0 0 2 8:00
+"Dennis Wideman" D 0 0 -1 0 16:30
+
+3 http://www.hockey-reference.com/boxscores/201410080LAK.html 2014-10-08 "San Jose Sharks" "Los Angeles Kings" 4 0
+"Antti Niemi" G 0 34 60:00
+
+"Justin Braun" D 0 0 1 2 19:34
+"Mike Brown" RW 0 0 0 1 11:08
+"Adam Burish" RW 0 0 0 0 13:26
+"Brent Burns" RW 0 2 1 1 21:35
+"Logan Couture" C 0 0 1 1 15:26
+"Jason Demers" D 0 1 1 0 21:06
+"Andrew Desjardins" C 0 0 0 0 13:08
+"Scott Hannan" D 0 0 1 1 18:31
+"Tomas Hertl" C 0 0 0 2 16:33
+"Patrick Marleau" C 1 1 1 4 14:38
+"Tye McGinn" LW 0 1 2 1 10:48
+"Mirco Mueller" D 0 0 1 0 17:54
+"Matthew Nieto" LW 1 0 1 2 14:11
+"Joe Pavelski" C 0 0 0 7 18:58
+"Joe Thornton" C 0 0 0 2 17:05
+"Chris Tierney" C 0 1 2 3 12:04
+"Marc-Edouard Vlasic" D 0 1 1 1 21:20
+"Tommy Wingels" C 2 0 2 2 14:21
+
+"Jonathan Quick" G 4 27 40:00
+"Martin Jones" G 0 3 19:54
+
+"Dustin Brown" RW 0 0 0 4 16:14
+"Jeff Carter" C 0 0 0 4 19:46
+"Kyle Clifford" LW 0 0 -1 1 10:00
+"Drew Doughty" D 0 0 -1 2 27:28
+"Marian Gaborik" RW 0 0 0 2 16:30
+"Matt Greene" D 0 0 -1 1 13:36
+"Dwight King" LW 0 0 -2 0 13:14
+"Anze Kopitar" C 0 0 0 2 18:21
+"Trevor Lewis" C 0 0 -1 6 10:29
+"Alec Martinez" D 0 0 -1 2 16:04
+"Brayden McNabb" D 0 0 -1 0 23:27
+"Tanner Pearson" LW 0 0 0 2 13:24
+"Robyn Regehr" D 0 0 -1 2 16:54
+"Mike Richards" C 0 0 -2 1 15:03
+"Jarret Stoll" C 0 0 -1 0 13:03
+"Tyler Toffoli" C 0 0 0 0 12:48
+"Slava Voynov" D 0 0 -1 0 21:40
+"Justin Williams" RW 0 0 -2 5 15:31
+
+4 http://www.hockey-reference.com/boxscores/201410080TOR.html 2014-10-08 "Montreal Canadiens" "Toronto Maple Leafs" 4 3
+"Carey Price" G 3 27 59:20
+
+"Nathan Beaulieu" D 0 0 -1 1 10:25
+"Rene Bourque" RW 0 0 -1 3 12:53
+"David Desharnais" C 0 1 2 2 17:19
+"Lars Eller" C 0 0 -1 2 14:28
+"Alexei Emelin" D 0 2 2 0 21:50
+"Alex Galchenyuk" C 0 1 1 1 14:00
+"Brendan Gallagher" RW 0 0 1 3 14:05
+"Tom Gilbert" D 0 0 1 0 22:29
+"Manny Malhotra" C 0 0 0 1 13:48
+"Andrei Markov" D 0 0 1 1 26:17
+"Max Pacioretty" LW 1 0 2 4 18:17
+"P.A. Parenteau" LW 0 2 2 1 16:50
+"Tomas Plekanec" C 2 0 1 5 15:27
+"Brandon Prust" LW 0 0 0 1 13:04
+"Jiri Sekac" LW 0 0 -1 0 12:13
+"P.K. Subban" D 1 0 1 5 25:45
+"Mike Weaver" D 0 0 0 0 13:20
+"Dale Weise" RW 0 0 0 2 12:33
+
+"Jonathan Bernier" G 4 32 59:29
+
+"Tyler Bozak" C 1 0 -2 2 21:31
+"David Clarkson" RW 0 0 1 1 13:33
+"Matt Frattin" RW 0 0 0 0 9:24
+"Jake Gardiner" D 0 0 -1 0 19:28
+"Peter Holland" C 0 0 0 1 11:01
+"Nazem Kadri" C 1 0 -1 3 14:10
+"Phil Kessel" RW 0 0 -2 2 20:31
+"Leo Komarov" C 0 1 1 2 14:22
+"Brandon Kozun" RW 0 1 -1 2 13:22
+"Joffrey Lupul" LW 0 1 -1 1 14:43
+"Stuart Percy" D 0 1 0 1 20:21
+"Dion Phaneuf" D 0 1 -1 0 23:31
+"Roman Polak" D 0 0 0 1 17:34
+"Morgan Rielly" D 1 0 -1 3 19:03
+"Stephane Robidas" D 0 0 -1 0 20:03
+"Mike Santorelli" C 0 1 1 3 11:08
+"James van Riemsdyk" LW 0 0 -2 3 22:07
+"Daniel Winnik" CLW 0 0 0 2 10:39
+
+5 http://www.hockey-reference.com/boxscores/201410090ARI.html 2014-10-09 "Winnipeg Jets" "Arizona Coyotes" 6 2
+"Ondrej Pavelec" G 2 28 60:00
+
+"Zach Bogosian" D 0 2 3 2 21:43
+"Dustin Byfuglien" D 1 0 3 4 19:19
+"Toby Enstrom" D 0 2 2 1 18:57
+"Michael Frolik" LW 0 0 0 1 16:11
+"T.J. Galiardi" LW 0 0 1 2 14:34
+"Evander Kane" LW 0 0 0 0 1:24
+"Andrew Ladd" LW 0 1 -1 3 19:22
+"Bryan Little" RW 2 0 1 4 19:54
+"Adam Lowry" LW 0 0 0 1 12:08
+"Adam Pardy" D 0 1 2 1 17:37
+"Mathieu Perreault" C 0 1 1 1 14:59
+"Paul Postma" D 0 0 2 1 13:32
+"Mark Scheifele" C 0 1 2 2 17:23
+"Jim Slater" C 0 0 1 0 12:36
+"Mark Stuart" D 1 0 -1 1 17:17
+"Chris Thorburn" RW 0 0 1 0 12:45
+"Jacob Trouba" D 0 0 0 1 24:37
+"Blake Wheeler" RW 2 1 2 2 15:42
+
+"Mike Smith" G 6 27 59:58
+
+"Mikkel Boedker" RW 1 0 0 3 16:02
+"B.J. Crombeen" RW 0 0 -2 0 9:00
+"Shane Doan" RW 0 1 0 3 15:57
+"Oliver Ekman-Larsson" D 0 1 -2 2 25:39
+"Martin Erat" RW 0 1 -4 1 11:39
+"Sam Gagner" C 0 0 -1 3 17:34
+"Martin Hanzal" C 1 0 -2 3 15:05
+"Rob Klinkhammer" LW 0 0 1 4 11:24
+"Lauri Korpikoski" LW 0 0 -1 0 16:49
+"Brandon McMillan" LW 0 0 0 0 11:34
+"Zbynek Michalek" D 0 1 -1 2 19:40
+"Dave Moss" LW 0 0 -2 4 9:37
+"Connor Murphy" D 0 0 -1 0 12:47
+"Michael Stone" D 0 0 -1 1 21:12
+"Chris Summers" D 0 0 -2 0 15:42
+"Antoine Vermette" C 0 0 1 0 17:34
+"Joe Vitale" C 0 0 -1 0 13:28
+"Keith Yandle" D 0 0 -1 2 25:19
+
+6 http://www.hockey-reference.com/boxscores/201410090BUF.html 2014-10-09 "Columbus Blue Jackets" "Buffalo Sabres" 3 1
+"Sergei Bobrovsky" G 1 22 59:43
+
+"Artem Anisimov" C 1 0 0 1 18:45
+"Cam Atkinson" RW 1 0 0 3 15:38
+"Jared Boll" RW 0 1 1 1 8:45
+"Matt Calvert" LW 0 0 0 1 15:09
+"Michael Chaput" C 0 1 1 1 12:30
+"Marko Daňo" C 0 0 0 4 14:33
+"Tim Erixon" D 0 0 1 4 17:10
+"Nick Foligno" LW 0 1 0 4 15:22
+"Scott Hartnell" LW 0 1 0 5 17:54
+"Ryan Johansen" C 0 1 0 0 14:02
+"Jack Johnson" D 0 0 -1 0 23:37
+"Mark Letestu" C 0 0 0 4 15:52
+"Dalton Prout" D 0 0 0 1 14:34
+"David Savard" D 0 0 -1 0 24:30
+"Jack Skille" RW 1 0 1 3 9:58
+"Fedor Tyutin" D 0 0 1 1 18:25
+"Alexander Wennberg" C 0 1 0 3 17:44
+"James Wisniewski" D 0 0 2 4 21:49
+
+"Jhonas Enroth" G 3 40 60:00
+
+"Andre Benoit" D 0 0 -1 2 20:59
+"Nicolas Deslauriers" LW 0 0 -1 0 6:55
+"Tyler Ennis" C 0 0 -1 1 17:49
+"Marcus Foligno" LW 0 1 1 2 17:19
+"Brian Gionta" RW 0 0 0 4 15:39
+"Zemgus Girgensons" C 1 0 1 2 15:19
+"Josh Gorges" D 0 0 0 0 22:03
+"Cody Hodgson" C 0 0 0 1 15:00
+"Cody McCormick" CRW 0 0 -1 0 10:46
+"Andrej Meszaros" D 0 0 -1 0 20:25
+"Torrey Mitchell" C 0 0 -1 0 10:22
+"Matt Moulson" LW 0 0 -1 3 14:38
+"Tyler Myers" D 0 0 0 1 24:21
+"Sam Reinhart" C 0 0 0 0 13:37
+"Rasmus Ristolainen" D 0 0 0 0 16:04
+"Drew Stafford" RW 0 0 -1 1 17:18
+"Chris Stewart" RW 0 0 1 5 14:56
+"Mike Weber" D 0 0 0 0 16:32
+
+7 http://www.hockey-reference.com/boxscores/201410090DAL.html 2014-10-09 "Chicago Blackhawks" "Dallas Stars" 3 2
+"Corey Crawford" G 2 34 65:00
+
+"Bryan Bickell" LW 0 0 0 1 11:49
+"Daniel Carcillo" LW 0 0 0 0 4:43
+"Niklas Hjalmarsson" D 0 0 0 0 25:06
+"Marian Hossa" RW 0 0 1 1 17:29
+"Patrick Kane" RW 0 1 -1 5 24:14
+"Duncan Keith" D 1 1 0 1 29:40
+"Marcus Kruger" C 0 0 0 1 11:54
+"Jeremy Morin" LW 0 0 0 2 5:32
+"Johnny Oduya" D 0 0 0 1 25:02
+"Brad Richards" C 0 0 0 3 14:38
+"David Rundblad" D 0 0 0 1 6:25
+"Brandon Saad" LW 0 0 -1 0 18:50
+"Brent Seabrook" D 0 1 0 1 23:50
+"Patrick Sharp" LW 1 1 1 6 19:21
+"Andrew Shaw" C 0 0 -1 1 18:33
+"Ben Smith" RW 0 0 0 1 16:09
+"Jonathan Toews" C 0 0 1 1 22:52
+"Trevor van Riemsdyk" D 0 0 0 0 11:43
+
+"Kari Lehtonen" G 2 26 65:00
+
+"Jamie Benn" LW 0 0 0 2 21:50
+"Jordie Benn" D 0 0 1 1 23:16
+"Kevin Connauton" D 0 0 0 0 9:03
+"Trevor Daley" D 1 0 -1 2 24:36
+"Brenden Dillon" D 0 0 1 2 23:25
+"Cody Eakin" C 1 0 1 4 18:31
+"Patrick Eaves" RW 0 0 -1 2 7:29
+"Vernon Fiddler" C 0 0 0 2 15:13
+"Ryan Garbutt" C 0 1 1 3 16:21
+"Alex Goligoski" D 0 0 -1 1 26:12
+"Ales Hemsky" RW 0 1 -1 4 15:58
+"Shawn Horcoff" C 0 0 0 3 12:19
+"Patrik Nemeth" D 0 0 0 0 17:17
+"Valeri Nichushkin" RW 0 0 0 1 10:53
+"Antoine Roussel" LW 0 1 1 1 18:04
+"Colton Sceviour" CRW 0 0 0 3 13:02
+"Tyler Seguin" C 0 0 0 1 18:34
+"Jason Spezza" C 0 1 -1 2 17:50
+
+8 http://www.hockey-reference.com/boxscores/201410090DET.html 2014-10-09 "Boston Bruins" "Detroit Red Wings" 1 2
+"Tuukka Rask" G 2 24 58:06
+
+"Patrice Bergeron" C 1 0 1 1 14:26
+"Zdeno Chara" D 0 0 1 6 22:30
+"Craig Cunningham" RW 0 0 0 0 10:00
+"Loui Eriksson" LW 0 0 -1 0 21:29
+"Matt Fraser" LW 0 0 0 0 12:30
+"Dougie Hamilton" D 0 0 -1 1 19:47
+"Chris Kelly" CLW 0 0 0 0 16:39
+"Torey Krug" D 0 0 -1 1 22:39
+"Milan Lucic" LW 0 0 -1 0 15:02
+"Brad Marchand" LW 0 0 1 4 16:46
+"Adam McQuaid" D 0 0 0 0 20:42
+"Kevan Miller" D 0 0 1 0 17:06
+"Daniel Paille" LW 0 0 0 1 10:40
+"Bobby Robins" C 0 0 0 0 7:48
+"Dennis Seidenberg" D 0 0 0 0 18:05
+"Reilly Smith" RW 0 0 1 1 15:26
+"Carl Soderberg" C 0 0 -1 2 18:13
+"Ryan Spooner" C 0 0 0 0 13:01
+
+"Jimmy Howard" G 1 17 60:00
+
+"Justin Abdelkader" LW 1 0 0 3 17:34
+"Joakim Andersson" C 0 0 0 0 12:08
+"Danny DeKeyser" D 0 1 0 2 20:05
+"Jonathan Ericsson" D 0 0 -1 0 20:25
+"Johan Franzen" LW 0 2 0 2 16:21
+"Luke Glendening" C 0 0 0 1 14:43
+"Darren Helm" CLW 0 1 0 0 12:51
+"Tomas Jurco" RW 0 0 0 0 14:08
+"Jakub Kindl" D 0 0 0 1 13:56
+"Niklas Kronwall" D 0 0 1 0 21:53
+"Drew Miller" LW 0 0 0 2 13:03
+"Andrej Nestrasil" RW 0 0 0 1 12:56
+"Gustav Nyquist" RW 1 0 0 2 12:46
+"Kyle Quincey" D 0 0 0 2 17:19
+"Riley Sheahan" C 0 0 0 1 14:48
+"Brendan Smith" D 0 0 0 1 21:31
+"Tomas Tatar" C 0 0 0 3 14:29
+"Henrik Zetterberg" LW 0 0 0 3 19:04
+
+9 http://www.hockey-reference.com/boxscores/201410090EDM.html 2014-10-09 "Calgary Flames" "Edmonton Oilers" 5 2
+"Karri Ramo" G 2 40 60:00
+
+"Mikael Backlund" C 0 1 0 2 19:47
+"Brandon Bollig" LW 0 0 0 0 9:51
+"Lance Bouma" C 0 1 2 1 13:46
+"T.J. Brodie" D 1 0 2 1 21:55
+"Paul Byron" C 0 1 1 2 14:31
+"Joe Colborne" C 0 3 3 0 13:16
+"Raphael Diaz" D 0 0 1 0 14:37
+"Deryk Engelland" D 0 0 1 1 22:07
+"John Gaudreau" LW 0 0 1 0 12:54
+"Mark Giordano" D 0 1 2 0 22:59
+"Curtis Glencross" C 0 1 0 2 18:35
+"Jiri Hudler" C 1 1 1 2 13:46
+"David Jones" RW 0 0 0 2 16:22
+"Sean Monahan" C 0 1 1 4 14:46
+"Mason Raymond" LW 3 0 3 5 15:34
+"Kris Russell" D 0 0 1 1 21:11
+"Ladislav Smid" D 0 0 1 1 17:11
+"Matt Stajan" C 0 0 0 2 12:24
+
+"Ben Scrivens" G 5 26 59:05
+
+"Mark Arcobello" RW 0 0 0 2 14:52
+"Leon Draisaitl" C 0 0 -1 1 14:47
+"Jordan Eberle" C 0 0 -2 2 18:32
+"Mark Fayne" D 0 0 -3 3 18:19
+"Andrew Ference" D 0 0 -1 0 17:40
+"Boyd Gordon" C 0 0 -1 4 10:47
+"Taylor Hall" LW 1 0 -2 4 19:19
+"Matt Hendricks" C 0 0 -1 1 11:24
+"Brad Hunt" D 0 0 -1 1 20:13
+"Jesse Joensuu" LW 0 0 -1 2 10:24
+"Nikita Nikitin" D 0 0 -1 2 18:55
+"Ryan Nugent-Hopkins" C 0 1 -2 2 20:35
+"David Perron" LW 0 1 0 3 16:16
+"Jeff Petry" D 0 0 0 2 17:42
+"Benoit Pouliot" LW 0 0 -1 2 15:30
+"Teddy Purcell" RW 1 0 0 4 15:09
+"Justin Schultz" D 0 1 -2 3 23:28
+"Nail Yakupov" RW 0 1 -1 2 14:07
+
+10 http://www.hockey-reference.com/boxscores/201410090MIN.html 2014-10-09 "Colorado Avalanche" "Minnesota Wild" 0 5
+"Semyon Varlamov" G 5 38 40:00
+"Reto Berra" G 0 10 20:00
+
+"Tyson Barrie" D 0 0 -3 2 21:06
+"Daniel Briere" C 0 0 -2 1 14:57
+"Marc-Andre Cliche" C 0 0 -1 1 10:39
+"Matt Duchene" C 0 0 0 1 19:56
+"Dennis Everberg" RW 0 0 0 3 7:56
+"Nate Guenin" D 0 0 -1 0 14:49
+"Jan Hejda" D 0 0 -1 1 17:09
+"Nick Holden" D 0 0 -2 2 20:02
+"Jarome Iginla" RW 0 0 0 0 18:11
+"Erik Johnson" D 0 0 -1 0 22:50
+"Gabriel Landeskog" LW 0 0 -1 0 16:26
+"Nathan MacKinnon" C 0 0 -2 0 16:02
+"Jamie McGinn" LW 0 0 -3 0 12:30
+"Cody McLeod" LW 0 0 0 1 10:20
+"Ryan O'Reilly" C 0 0 -1 2 19:14
+"Brad Stuart" D 0 0 -2 1 20:25
+"Maxime Talbot" C 0 0 -3 0 12:34
+"Alex Tanguay" LW 0 0 -1 1 16:54
+
+"Darcy Kuemper" G 0 16 59:52
+
+"Jonas Brodin" D 0 0 3 5 21:21
+"Kyle Brodziak" C 0 0 0 3 12:05
+"Ryan Carter" LW 0 0 0 2 11:01
+"Matt Cooke" C 0 0 0 0 13:49
+"Charlie Coyle" CRW 0 1 2 0 13:05
+"Mathew Dumba" D 0 0 0 1 16:27
+"Christian Folin" D 0 0 0 2 17:32
+"Mikael Granlund" C 0 2 4 3 15:34
+"Erik Haula" LW 0 0 1 1 13:37
+"Mikko Koivu" C 0 0 0 1 16:54
+"Nino Niederreiter" RW 1 0 1 7 13:35
+"Zach Parise" LW 1 2 4 9 15:09
+"Jason Pominville" RW 1 1 2 4 15:01
+"Marco Scandella" D 0 0 2 2 18:11
+"Jared Spurgeon" D 1 0 2 2 21:13
+"Ryan Suter" D 1 1 3 3 25:31
+"Thomas Vanek" LW 0 0 0 2 15:38
+"Jason Zucker" LW 0 0 0 1 12:25
+
+11 http://www.hockey-reference.com/boxscores/201410090NSH.html 2014-10-09 "Ottawa Senators" "Nashville Predators" 2 3
+"Craig Anderson" G 3 37 59:19
+
+"Mark Borowiecki" D 0 1 1 0 13:45
+"Cody Ceci" D 0 1 0 1 18:57
+"Alex Chiasson" RW 1 0 -1 3 15:39
+"Jared Cowen" D 0 0 -2 1 17:22
+"Eric Gryba" D 0 0 1 1 13:27
+"Mike Hoffman" CLW 0 0 0 0 11:57
+"Erik Karlsson" D 0 0 -2 2 28:17
+"Curtis Lazar" CRW 0 0 0 2 15:04
+"David Legwand" C 0 0 0 0 16:56
+"Clarke MacArthur" LW 0 1 0 1 18:43
+"Milan Michalek" RW 0 0 -1 0 16:04
+"Chris Neil" RW 0 0 0 1 12:40
+"Chris Phillips" D 0 1 0 2 18:55
+"Bobby Ryan" LW 0 0 0 0 17:02
+"Zack Smith" C 0 0 0 0 13:46
+"Mark Stone" RW 0 0 0 3 9:45
+"Kyle Turris" C 1 0 0 2 20:27
+"Mika Zibanejad" C 0 0 -1 1 15:49
+
+"Pekka Rinne" G 2 20 60:00
+
+"Gabriel Bourque" LW 0 0 -1 4 17:34
+"Rich Clune" LW 0 0 0 0 5:30
+"Mattias Ekholm" D 0 0 0 0 14:38
+"Ryan Ellis" D 0 1 1 5 15:34
+"Filip Forsberg" C 0 2 2 0 15:11
+"Paul Gaustad" C 0 2 2 1 14:05
+"Calle Jarnkrok" C 0 0 0 1 13:07
+"Olli Jokinen" C 0 0 0 6 14:47
+"Seth Jones" D 0 0 0 1 19:43
+"Roman Josi" D 0 0 0 0 27:59
+"James Neal" LW 0 0 -1 7 16:45
+"Eric Nystrom" LW 1 0 2 1 11:24
+"Mike Ribeiro" C 0 0 -1 1 18:36
+"Derek Roy" C 0 1 0 1 14:49
+"Craig Smith" C 1 0 0 3 13:45
+"Anton Volchenkov" D 0 0 0 1 15:33
+"Shea Weber" D 1 0 1 4 26:52
+"Colin Wilson" C 0 0 0 1 14:25
+
+12 http://www.hockey-reference.com/boxscores/201410090PHI.html 2014-10-09 "New Jersey Devils" "Philadelphia Flyers" 6 4
+"Cory Schneider" G 4 39 60:00
+
+"Mike Cammalleri" CW 2 0 1 7 19:00
+"Ryane Clowe" LW 0 1 1 0 15:09
+"Patrik Elias" LW 1 0 2 2 15:55
+"Eric Gelinas" D 0 0 1 1 16:41
+"Stephen Gionta" C 0 0 0 2 11:44
+"Andy Greene" D 0 1 2 3 19:42
+"Martin Havlat" RW 0 1 1 1 14:56
+"Adam Henrique" C 1 1 2 1 16:05
+"Jaromir Jagr" RW 0 2 1 1 17:30
+"Jonathon Merrill" D 0 0 0 0 21:36
+"Tuomo Ruutu" CLW 0 0 0 0 8:12
+"Michael Ryder" RW 1 2 2 2 13:18
+"Bryce Salvador" D 0 0 1 1 21:11
+"Damon Severson" D 0 0 2 2 18:39
+"Jordin Tootoo" RW 0 0 0 0 8:03
+"Travis Zajac" C 0 0 0 0 18:00
+"Marek Zidlicky" D 0 2 2 1 22:11
+"Dainius Zubrus" RW 1 0 2 2 15:50
+
+"Steve Mason" G 5 25 58:43
+
+"Jason Akeson" RW 0 0 0 0 11:27
+"Pierre-Edouard Bellemare" LW 0 0 0 2 11:18
+"Sean Couturier" C 0 0 0 3 19:32
+"Michael Del Zotto" D 0 0 -4 5 18:55
+"Claude Giroux" CRW 1 1 -4 7 19:33
+"Nicklas Grossmann" D 0 0 1 1 17:46
+"Vincent Lecavalier" C 1 1 -1 3 14:51
+"Andrew MacDonald" D 0 1 1 1 22:33
+"Michael Raffl" LW 0 0 -4 0 10:15
+"Matt Read" RW 0 1 0 1 19:49
+"Zac Rinaldo" C 0 0 0 1 9:51
+"Brayden Schenn" C 0 0 0 3 15:12
+"Luke Schenn" D 0 0 -5 3 16:01
+"Nick Schultz" D 0 0 0 1 14:46
+"Wayne Simmonds" RW 2 1 2 4 17:19
+"Mark Streit" D 0 2 -1 1 25:50
+"R.J. Umberger" C 0 0 -2 1 12:48
+"Jakub Voracek" RW 0 1 -4 2 17:31
+
+13 http://www.hockey-reference.com/boxscores/201410090PIT.html 2014-10-09 "Anaheim Ducks" "Pittsburgh Penguins" 4 6
+"John Gibson" G 6 39 60:00
+
+"Francois Beauchemin" D 0 0 -1 2 20:10
+"Matt Beleskey" LW 0 0 -1 0 11:45
+"Andrew Cogliano" C 0 0 0 2 17:30
+"Emerson Etem" RW 0 0 -2 0 10:01
+"Cam Fowler" D 0 0 -3 0 19:54
+"Ryan Getzlaf" C 0 2 -2 3 20:17
+"Tim Jackman" RW 0 0 -1 1 7:28
+"Ryan Kesler" C 1 2 -1 2 19:29
+"Hampus Lindholm" D 0 0 -1 0 23:45
+"Ben Lovejoy" D 0 0 -3 0 18:08
+"Patrick Maroon" LW 0 1 -1 3 16:55
+"Corey Perry" RW 3 0 -1 5 19:00
+"Rickard Rakell" RW 0 0 -1 1 12:36
+"Jakob Silfverberg" LW 0 0 0 2 17:41
+"Devante Smith-Pelly" RW 0 0 -2 2 11:31
+"Clayton Stoner" D 0 0 1 0 15:10
+"Nate Thompson" C 0 0 -1 3 13:08
+"Sami Vatanen" D 0 2 0 3 18:40
+
+"Marc-Andre Fleury" G 4 29 60:00
+
+"Craig Adams" RW 0 0 0 2 8:52
+"Blake Comeau" RW 1 0 0 3 11:53
+"Sidney Crosby" C 2 1 2 5 20:19
+"Simon Despres" D 0 0 1 4 15:36
+"Steve Downie" RW 0 0 0 2 13:05
+"Pascal Dupuis" LW 1 3 3 5 16:26
+"Christian Ehrhoff" D 0 0 1 2 20:39
+"Marcel Goc" C 0 0 -1 2 12:51
+"Patric Hornqvist" RW 1 1 2 4 17:21
+"Chris Kunitz" LW 0 1 2 1 19:35
+"Kris Letang" D 0 0 1 3 23:44
+"Olli Maatta" D 0 3 2 1 15:55
+"Evgeni Malkin" C 0 1 1 0 16:58
+"Paul Martin" D 0 0 2 3 21:54
+"Rob Scuderi" D 0 0 1 0 18:34
+"Zach Sill" C 0 0 0 0 7:14
+"Nick Spaling" C 0 0 -1 1 12:28
+"Brandon Sutter" CRW 1 0 3 1 18:51
+
+14 http://www.hockey-reference.com/boxscores/201410090STL.html 2014-10-09 "New York Rangers" "St. Louis Blues" 3 2
+"Henrik Lundqvist" G 2 25 60:00
+
+"Dan Boyle" D 0 0 1 2 14:01
+"Derick Brassard" C 0 0 0 0 15:24
+"Anthony Duclair" LW 0 0 0 0 11:12
+"Jesper Fast" RW 0 0 -1 0 12:21
+"Dan Girardi" D 0 0 0 2 26:18
+"Tanner Glass" LW 0 0 -1 0 14:11
+"Carl Hagelin" LW 0 0 0 1 14:35
+"Kevin Klein" D 0 0 0 0 17:25
+"Chris Kreider" C 1 1 2 2 14:43
+"Ryan McDonagh" D 0 0 0 4 28:51
+"J.T. Miller" C 0 0 0 2 12:09
+"Dominic Moore" C 0 0 -1 2 17:21
+"John Moore" D 0 0 0 1 11:52
+"Rick Nash" LW 2 1 2 4 14:36
+"Martin St. Louis" RW 0 2 2 1 16:37
+"Marc Staal" D 0 0 1 1 20:55
+"Lee Stempniak" RW 0 0 0 2 13:07
+"Mats Zuccarello" LW 0 0 0 1 14:22
+
+"Brian Elliott" G 3 25 59:10
+
+"David Backes" C 0 1 0 3 17:58
+"Patrik Berglund" C 0 0 -1 1 16:41
+"Jay Bouwmeester" D 0 0 0 0 23:30
+"Ian Cole" D 0 0 1 2 14:06
+"Barret Jackman" D 0 0 -1 1 14:38
+"Maxim Lapierre" C 0 0 0 0 7:24
+"Jori Lehtera" C 0 0 -1 1 16:25
+"Jordan Leopold" D 0 0 -1 0 15:05
+"Joakim Lindstrom" C 0 0 -1 2 10:26
+"T.J. Oshie" C 0 0 -1 0 17:45
+"Steve Ott" C 0 0 0 1 14:13
+"Alex Pietrangelo" D 0 1 -1 0 25:26
+"Ryan Reaves" RW 0 0 0 1 7:25
+"Jaden Schwartz" C 1 1 0 2 17:09
+"Kevin Shattenkirk" D 0 0 0 2 22:57
+"Paul Stastny" C 1 0 0 3 17:01
+"Alex Steen" C 0 0 0 2 18:15
+"Vladimir Tarasenko" RW 0 1 1 4 18:26
+
+15 http://www.hockey-reference.com/boxscores/201410090TBL.html 2014-10-09 "Florida Panthers" "Tampa Bay Lightning" 2 3
+"Roberto Luongo" G 3 32 60:56
+
+"Aleksander Barkov" C 0 0 1 0 18:26
+"Sean Bergenheim" LW 0 0 1 1 8:46
+"Nick Bjugstad" C 0 0 0 0 15:08
+"Dave Bolland" C 0 0 0 0 16:07
+"Brad Boyes" RW 0 0 1 3 16:30
+"Brian Campbell" D 0 1 1 1 22:39
+"Aaron Ekblad" D 0 1 1 2 19:05
+"Tomas Fleischmann" LW 0 0 1 1 13:02
+"Erik Gudbranson" D 1 0 1 3 13:58
+"Jonathan Huberdeau" C 1 0 1 3 14:48
+"Jussi Jokinen" C 0 0 1 1 17:39
+"Tomas Kopecky" C 0 0 0 0 9:34
+"Dmitry Kulikov" D 0 0 0 3 24:53
+"Derek MacKenzie" C 0 1 1 2 12:08
+"Willie Mitchell" D 0 0 0 1 25:35
+"Dylan Olsen" D 0 1 1 0 14:35
+"Shawn Thornton" RW 0 0 0 0 5:25
+"Scottie Upshall" LW 0 0 0 0 17:58
+
+"Ben Bishop" G 2 21 61:11
+
+"Brian Boyle" C 0 0 0 1 10:16
+"J.T. Brown" RW 0 0 0 0 12:06
+"Ryan Callahan" RW 1 0 -1 3 20:59
+"Matt Carle" D 0 0 -1 0 16:49
+"Brett Connolly" RW 0 0 -1 0 11:16
+"Valtteri Filppula" C 0 2 -1 1 21:16
+"Jason Garrison" D 0 0 -1 2 17:58
+"Radko Gudas" D 0 0 -1 0 15:41
+"Victor Hedman" D 1 1 0 3 22:56
+"Tyler Johnson" C 1 0 0 4 17:34
+"Alex Killorn" C 0 0 -1 1 16:14
+"Nikita Kucherov" RW 0 0 -1 4 12:50
+"Brenden Morrow" LW 0 0 0 0 7:54
+"Vladislav Namestnikov" C 0 0 -1 3 10:18
+"Ondrej Palat" LW 0 0 0 3 19:46
+"Steven Stamkos" C 0 0 0 3 23:16
+"Anton Stralman" D 0 1 0 1 22:05
+"Andrej Sustr" D 0 0 -1 3 15:30
+
+16 http://www.hockey-reference.com/boxscores/201410090WSH.html 2014-10-09 "Montreal Canadiens" "Washington Capitals" 2 1
+"Dustin Tokarski" G 1 30 65:00
+
+"Nathan Beaulieu" D 0 0 0 1 14:02
+"Rene Bourque" RW 0 0 -1 0 13:36
+"David Desharnais" C 0 0 0 1 18:23
+"Lars Eller" C 0 0 -1 2 14:13
+"Alexei Emelin" D 0 0 0 0 22:00
+"Alex Galchenyuk" C 0 1 1 2 17:57
+"Brendan Gallagher" RW 0 0 0 4 14:40
+"Tom Gilbert" D 0 1 1 1 22:16
+"Manny Malhotra" C 0 0 0 0 12:31
+"Andrei Markov" D 0 0 1 2 26:39
+"Travis Moen" LW 0 0 0 1 9:49
+"Max Pacioretty" LW 0 0 0 2 19:16
+"P.A. Parenteau" LW 0 0 0 1 11:56
+"Tomas Plekanec" C 1 0 1 2 21:23
+"Brandon Prust" LW 0 0 0 1 10:40
+"Jiri Sekac" LW 0 0 0 0 13:30
+"P.K. Subban" D 0 0 -1 4 28:07
+"Mike Weaver" D 0 0 -1 0 17:02
+
+"Braden Holtby" G 1 24 65:00
+
+"Karl Alzner" D 0 0 -1 1 22:57
+"Nicklas Backstrom" C 0 0 -1 2 22:53
+"Troy Brouwer" RW 0 1 1 2 18:42
+"Chris Brown" C 0 0 0 1 3:42
+"Andre Burakovsky" LW 1 0 1 2 15:58
+"John Carlson" D 0 0 0 4 23:22
+"Jason Chimera" LW 0 0 0 2 16:51
+"Eric Fehr" RW 0 0 -1 2 21:07
+"Jack Hillen" D 0 0 1 0 14:01
+"Marcus Johansson" CW 0 0 1 3 16:39
+"Evgeny Kuznetsov" C 0 0 0 0 6:36
+"Brooks Laich" C 0 0 0 2 17:14
+"Matt Niskanen" D 0 0 -1 2 26:42
+"Liam O'Brien" C 0 0 0 1 2:40
+"Brooks Orpik" D 0 0 0 0 23:07
+"Alex Ovechkin" LW 0 0 -1 4 22:22
+"Nate Schmidt" D 0 0 1 2 13:14
+"Joel Ward" RW 0 0 0 0 19:52
+
+17 http://www.hockey-reference.com/boxscores/201410100CAR.html 2014-10-10 "New York Islanders" "Carolina Hurricanes" 5 3
+"Jaroslav Halak" G 3 24 59:59
+
+"Josh Bailey" C 0 0 0 1 12:11
+"Johnny Boychuk" D 1 2 1 2 23:11
+"Casey Cizikas" C 0 0 0 1 18:36
+"Cal Clutterbuck" RW 0 0 0 1 14:23
+"Cory Conacher" LW 0 0 -1 3 14:44
+"Mikhail Grabovski" C 1 0 2 2 11:21
+"Travis Hamonic" D 1 0 2 4 21:03
+"Thomas Hickey" D 0 0 1 1 19:59
+"Nikolai Kulemin" LW 0 0 0 0 13:10
+"Nick Leddy" D 0 0 0 1 18:29
+"Matt Martin" LW 0 0 0 1 10:55
+"Brock Nelson" C 2 2 2 3 17:46
+"Frans Nielsen" C 0 0 1 1 13:25
+"Kyle Okposo" RW 0 1 0 0 18:11
+"Griffin Reinhart" D 0 0 0 0 16:51
+"Brian Strait" D 0 0 0 0 17:10
+"Ryan Strome" C 0 2 2 2 12:11
+"John Tavares" C 0 3 0 3 17:55
+
+"Cam Ward" G 5 26 58:36
+
+"Patrick Brown" C 0 0 1 1 10:05
+"Patrick Dwyer" RW 0 0 -1 0 11:55
+"Justin Faulk" D 0 1 0 1 21:22
+"Nathan Gerbe" C 1 0 -1 2 14:44
+"Tim Gleason" D 0 0 0 0 17:14
+"Ron Hainsey" D 0 0 -2 1 18:15
+"Jay Harrison" D 0 0 -2 1 19:30
+"John-Michael Liles" D 0 0 -1 1 19:49
+"Elias Lindholm" C 0 1 0 0 16:04
+"Brad Malone" CLW 0 0 -1 3 12:13
+"Jay McClement" C 0 0 -1 2 13:10
+"Riley Nash" C 0 1 1 0 14:28
+"Victor Rask" C 0 0 -1 2 13:58
+"Andrej Sekera" D 0 2 0 2 22:08
+"Alexander Semin" LW 0 0 -2 2 18:46
+"Eric Staal" C 1 0 -1 3 21:47
+"Chris Terry" LW 1 0 1 2 10:19
+"Jiri Tlusty" C 0 1 0 1 21:11
+
+18 http://www.hockey-reference.com/boxscores/201410110ARI.html 2014-10-11 "Los Angeles Kings" "Arizona Coyotes" 2 3
+"Jonathan Quick" G 3 40 64:46
+
+"Dustin Brown" RW 0 0 0 0 16:27
+"Jeff Carter" C 1 0 2 4 18:11
+"Kyle Clifford" LW 0 0 0 1 11:16
+"Drew Doughty" D 0 0 1 2 30:00
+"Marian Gaborik" RW 0 0 -1 0 19:22
+"Matt Greene" D 0 0 1 1 13:58
+"Dwight King" LW 0 0 0 0 15:44
+"Anze Kopitar" C 0 0 -1 0 20:09
+"Alec Martinez" D 0 0 1 5 17:43
+"Brayden McNabb" D 0 0 0 1 17:50
+"Jordan Nolan" C 0 0 0 2 10:45
+"Tanner Pearson" LW 1 0 2 2 11:30
+"Robyn Regehr" D 0 0 0 1 23:56
+"Mike Richards" C 0 0 0 2 15:03
+"Jarret Stoll" C 0 0 0 1 18:41
+"Tyler Toffoli" C 0 1 2 2 12:55
+"Slava Voynov" D 0 0 -1 1 22:39
+"Justin Williams" RW 0 0 -1 1 15:39
+
+"Devan Dubnyk" G 2 26 64:46
+
+"Mikkel Boedker" RW 1 0 0 6 17:06
+"B.J. Crombeen" RW 0 0 0 0 6:44
+"Shane Doan" RW 0 0 -1 3 18:23
+"Oliver Ekman-Larsson" D 1 0 0 8 28:10
+"Martin Erat" RW 0 0 1 1 18:38
+"Sam Gagner" C 0 0 -1 2 12:58
+"Martin Hanzal" C 0 0 0 4 22:21
+"Rob Klinkhammer" LW 0 0 0 3 14:34
+"Lauri Korpikoski" LW 0 0 -1 3 17:06
+"Brandon McMillan" LW 0 0 0 1 9:28
+"Zbynek Michalek" D 0 0 0 1 22:01
+"Dave Moss" LW 0 0 -1 0 13:11
+"Connor Murphy" D 0 0 0 0 11:10
+"Michael Stone" D 0 1 -1 2 26:48
+"Chris Summers" D 0 0 0 0 11:27
+"Antoine Vermette" C 1 1 0 3 19:06
+"Joe Vitale" C 0 0 0 0 11:57
+"Keith Yandle" D 0 3 -1 3 29:56
+
+19 http://www.hockey-reference.com/boxscores/201410110BOS.html 2014-10-11 "Washington Capitals" "Boston Bruins" 4 0
+"Braden Holtby" G 0 29 60:00
+
+"Karl Alzner" D 0 1 1 0 20:21
+"Nicklas Backstrom" C 0 2 1 1 19:49
+"Troy Brouwer" RW 0 0 0 1 17:41
+"Andre Burakovsky" LW 0 2 1 0 10:28
+"John Carlson" D 0 2 1 2 24:56
+"Jason Chimera" LW 0 0 0 0 14:55
+"Eric Fehr" RW 0 0 1 0 16:43
+"Mike Green" D 1 0 0 2 17:32
+"Marcus Johansson" CW 0 0 0 2 13:24
+"Evgeny Kuznetsov" C 0 1 1 2 11:09
+"Brooks Laich" C 0 0 0 0 16:30
+"Michael Latta" C 0 0 0 0 7:05
+"Matt Niskanen" D 0 0 1 1 20:45
+"Liam O'Brien" C 0 0 0 1 6:59
+"Brooks Orpik" D 0 0 1 0 21:21
+"Alex Ovechkin" LW 2 0 1 7 18:18
+"Nate Schmidt" D 0 0 0 0 13:55
+"Joel Ward" RW 1 0 1 2 18:09
+
+"Tuukka Rask" G 4 21 60:00
+
+"Patrice Bergeron" C 0 0 -1 3 17:49
+"Zdeno Chara" D 0 0 -1 0 21:56
+"Craig Cunningham" RW 0 0 0 1 12:24
+"Loui Eriksson" LW 0 0 0 2 18:15
+"Matt Fraser" LW 0 0 -1 0 12:10
+"Dougie Hamilton" D 0 0 0 3 21:41
+"Chris Kelly" CLW 0 0 0 3 16:45
+"Torey Krug" D 0 0 -1 4 20:28
+"Milan Lucic" LW 0 0 0 1 14:59
+"Brad Marchand" LW 0 0 -1 1 14:06
+"Adam McQuaid" D 0 0 -2 2 18:26
+"Kevan Miller" D 0 0 0 1 16:50
+"Daniel Paille" LW 0 0 0 0 12:36
+"Bobby Robins" C 0 0 0 0 7:59
+"Dennis Seidenberg" D 0 0 0 5 17:56
+"Reilly Smith" RW 0 0 -1 0 17:24
+"Carl Soderberg" C 0 0 -1 0 16:23
+"Ryan Spooner" C 0 0 -1 3 15:10
+
+20 http://www.hockey-reference.com/boxscores/201410110CBJ.html 2014-10-11 "New York Rangers" "Columbus Blue Jackets" 2 5
+"Cam Talbot" G 4 23 58:22
+
+"Derick Brassard" C 0 0 -3 1 16:15
+"Anthony Duclair" LW 0 2 2 0 14:09
+"Jesper Fast" RW 0 0 0 2 12:33
+"Dan Girardi" D 0 0 -2 0 24:22
+"Tanner Glass" LW 0 0 -1 0 10:11
+"Carl Hagelin" LW 0 0 -2 2 14:42
+"Matt Hunwick" D 0 0 0 0 17:17
+"Kevin Klein" D 0 0 -1 0 16:14
+"Chris Kreider" C 0 0 -1 1 9:51
+"Ryan McDonagh" D 0 0 -1 2 26:45
+"J.T. Miller" C 0 0 -1 3 12:40
+"Dominic Moore" C 0 0 -1 0 13:17
+"John Moore" D 0 0 0 2 13:26
+"Rick Nash" LW 1 0 0 4 18:54
+"Martin St. Louis" RW 0 0 1 2 18:06
+"Marc Staal" D 0 1 -2 2 19:04
+"Lee Stempniak" RW 1 0 0 2 17:20
+"Mats Zuccarello" LW 0 0 -4 3 16:32
+
+"Sergei Bobrovsky" G 2 26 60:00
+
+"Artem Anisimov" C 1 0 1 2 16:08
+"Cam Atkinson" RW 2 0 2 5 14:50
+"Jared Boll" RW 0 0 1 0 9:56
+"Matt Calvert" LW 0 0 0 2 16:29
+"Michael Chaput" C 0 1 1 0 12:19
+"Marko Daňo" C 1 1 2 2 12:08
+"Tim Erixon" D 0 0 0 1 16:04
+"Nick Foligno" LW 1 1 1 4 17:17
+"Scott Hartnell" LW 0 2 1 0 15:52
+"Ryan Johansen" C 0 2 1 1 15:08
+"Jack Johnson" D 0 0 -2 2 23:31
+"Mark Letestu" C 0 0 0 1 16:17
+"Dalton Prout" D 0 1 3 1 15:48
+"David Savard" D 0 1 -1 1 24:43
+"Jack Skille" RW 0 0 0 0 9:03
+"Fedor Tyutin" D 0 0 5 0 18:44
+"Alexander Wennberg" C 0 0 -1 1 16:25
+"James Wisniewski" D 0 0 1 1 21:18
+
+21 http://www.hockey-reference.com/boxscores/201410110CHI.html 2014-10-11 "Buffalo Sabres" "Chicago Blackhawks" 2 6
+"Jhonas Enroth" G 6 47 59:59
+
+"Andre Benoit" D 0 0 -2 1 21:49
+"Nicolas Deslauriers" LW 0 0 0 2 7:37
+"Tyler Ennis" C 1 0 0 2 18:14
+"Marcus Foligno" LW 0 0 -1 0 16:24
+"Brian Gionta" RW 0 0 -3 0 14:48
+"Zemgus Girgensons" C 1 0 0 3 15:28
+"Josh Gorges" D 0 0 0 0 20:06
+"Cody Hodgson" C 0 0 -3 0 16:12
+"Cody McCormick" CRW 0 0 0 1 10:32
+"Andrej Meszaros" D 0 1 -4 2 17:20
+"Torrey Mitchell" C 0 0 0 0 10:43
+"Matt Moulson" LW 0 0 0 2 15:02
+"Tyler Myers" D 0 0 0 1 26:29
+"Sam Reinhart" C 0 0 -1 1 13:33
+"Rasmus Ristolainen" D 0 0 -1 1 16:41
+"Drew Stafford" RW 0 2 1 3 17:48
+"Chris Stewart" RW 0 0 -3 3 16:43
+"Mike Weber" D 0 0 1 1 17:43
+
+"Corey Crawford" G 2 23 59:40
+
+"Bryan Bickell" LW 0 0 0 1 13:07
+"Daniel Carcillo" LW 1 0 1 5 9:55
+"Niklas Hjalmarsson" D 0 1 1 0 19:58
+"Marian Hossa" RW 1 0 1 5 17:29
+"Patrick Kane" RW 1 1 1 5 18:51
+"Duncan Keith" D 1 0 0 5 27:25
+"Marcus Kruger" C 0 0 0 4 14:10
+"Jeremy Morin" LW 0 0 0 2 8:57
+"Johnny Oduya" D 0 0 3 1 16:22
+"Brad Richards" C 0 0 -1 1 14:25
+"David Rundblad" D 0 0 2 0 11:34
+"Brandon Saad" LW 0 3 2 4 15:36
+"Brent Seabrook" D 0 1 1 1 23:32
+"Patrick Sharp" LW 1 0 1 7 16:24
+"Andrew Shaw" C 1 1 1 3 17:03
+"Ben Smith" RW 0 0 0 1 16:06
+"Jonathan Toews" C 0 2 1 0 18:02
+"Trevor van Riemsdyk" D 0 0 0 2 14:01
+
+22 http://www.hockey-reference.com/boxscores/201410110COL.html 2014-10-11 "Minnesota Wild" "Colorado Avalanche" 3 0
+"Darcy Kuemper" G 0 30 59:52
+
+"Jonas Brodin" D 0 1 2 0 23:30
+"Kyle Brodziak" C 0 0 1 0 9:36
+"Ryan Carter" LW 0 0 0 0 7:43
+"Matt Cooke" C 0 1 1 2 11:50
+"Charlie Coyle" CRW 1 0 1 1 15:17
+"Mathew Dumba" D 0 1 1 1 10:46
+"Christian Folin" D 0 0 0 1 9:38
+"Mikael Granlund" C 0 0 0 2 18:58
+"Erik Haula" LW 0 0 1 0 12:37
+"Mikko Koivu" C 0 0 1 3 18:12
+"Nino Niederreiter" RW 0 0 1 2 12:30
+"Zach Parise" LW 1 0 1 10 20:27
+"Jason Pominville" RW 0 0 0 3 19:04
+"Marco Scandella" D 0 0 1 3 21:36
+"Jared Spurgeon" D 0 1 1 1 24:47
+"Ryan Suter" D 0 1 1 1 28:19
+"Thomas Vanek" LW 0 1 1 2 13:37
+"Jason Zucker" LW 1 0 1 2 9:41
+
+"Semyon Varlamov" G 2 33 57:08
+
+"Tyson Barrie" D 0 0 -1 4 23:12
+"Daniel Briere" C 0 0 -2 1 13:49
+"Marc-Andre Cliche" C 0 0 0 0 10:03
+"Matt Duchene" C 0 0 0 3 18:13
+"Dennis Everberg" RW 0 0 -1 0 7:42
+"Jan Hejda" D 0 0 0 0 20:49
+"Nick Holden" D 0 0 -1 2 24:57
+"Jarome Iginla" RW 0 0 0 2 15:41
+"Erik Johnson" D 0 0 0 1 7:02
+"Gabriel Landeskog" LW 0 0 -1 2 17:20
+"Nathan MacKinnon" C 0 0 -1 4 16:34
+"Jamie McGinn" LW 0 0 -1 0 12:56
+"Cody McLeod" LW 0 0 0 1 10:50
+"Ryan O'Reilly" C 0 0 -2 6 18:01
+"Brad Stuart" D 0 0 -2 0 23:11
+"Maxime Talbot" C 0 0 0 1 10:54
+"Alex Tanguay" LW 0 0 -2 1 15:59
+"Ryan Wilson" D 0 0 -2 2 18:39
+
+23 http://www.hockey-reference.com/boxscores/201410110DET.html 2014-10-11 "Anaheim Ducks" "Detroit Red Wings" 3 2
+"Frederik Andersen" G 2 29 60:00
+
+"Francois Beauchemin" D 0 0 0 2 21:16
+"Matt Beleskey" LW 1 0 1 3 13:35
+"Andrew Cogliano" C 0 0 -1 1 14:07
+"Emerson Etem" RW 0 0 0 1 12:30
+"Cam Fowler" D 0 0 1 0 20:08
+"Ryan Getzlaf" C 2 0 1 7 18:20
+"Tim Jackman" RW 0 0 0 0 7:05
+"William Karlsson" C 0 0 0 0 10:42
+"Ryan Kesler" C 0 1 2 3 20:25
+"Hampus Lindholm" D 0 0 1 0 21:56
+"Ben Lovejoy" D 0 0 0 1 17:21
+"Patrick Maroon" LW 0 1 0 1 16:38
+"Corey Perry" RW 0 1 2 3 18:56
+"Jakob Silfverberg" LW 0 0 -1 1 14:24
+"Devante Smith-Pelly" RW 0 0 0 0 17:04
+"Clayton Stoner" D 0 0 0 1 15:37
+"Nate Thompson" C 0 0 -1 1 13:29
+"Sami Vatanen" D 0 0 0 1 20:27
+
+"Jimmy Howard" G 3 26 59:40
+
+"Justin Abdelkader" LW 0 1 0 2 15:13
+"Joakim Andersson" C 0 0 0 2 13:47
+"Danny DeKeyser" D 0 0 0 0 20:53
+"Jonathan Ericsson" D 0 0 -1 4 17:03
+"Johan Franzen" LW 0 1 0 0 18:57
+"Luke Glendening" C 1 0 1 2 14:29
+"Darren Helm" CLW 0 0 -1 3 10:43
+"Tomas Jurco" RW 0 0 0 2 12:50
+"Jakub Kindl" D 0 0 1 2 16:31
+"Niklas Kronwall" D 0 1 -2 0 23:02
+"Drew Miller" LW 0 0 0 1 15:00
+"Andrej Nestrasil" RW 0 0 -1 1 9:38
+"Gustav Nyquist" RW 1 0 -1 2 16:29
+"Kyle Quincey" D 0 0 1 0 19:11
+"Riley Sheahan" C 0 0 0 1 14:43
+"Brendan Smith" D 0 0 -1 3 19:23
+"Tomas Tatar" C 0 0 0 0 14:16
+"Henrik Zetterberg" LW 0 1 -1 4 20:12
+
+24 http://www.hockey-reference.com/boxscores/201410110FLA.html 2014-10-11 "New Jersey Devils" "Florida Panthers" 5 1
+"Cory Schneider" G 1 29 60:00
+
+"Mike Cammalleri" CW 1 0 1 3 17:23
+"Ryane Clowe" LW 1 0 1 2 12:33
+"Patrik Elias" LW 0 1 0 0 16:12
+"Eric Gelinas" D 0 2 1 2 14:59
+"Stephen Gionta" C 0 0 1 0 13:53
+"Andy Greene" D 0 0 2 3 24:24
+"Martin Havlat" RW 1 0 0 2 10:44
+"Adam Henrique" C 0 1 1 1 17:36
+"Jaromir Jagr" RW 0 0 1 2 12:56
+"Jonathon Merrill" D 0 1 1 0 22:12
+"Tuomo Ruutu" CLW 1 0 1 1 9:05
+"Michael Ryder" RW 0 1 1 1 10:55
+"Bryce Salvador" D 0 0 0 0 19:54
+"Damon Severson" D 1 1 2 3 18:55
+"Jordin Tootoo" RW 0 0 1 2 8:35
+"Travis Zajac" C 0 0 1 1 16:35
+"Marek Zidlicky" D 0 1 0 1 18:53
+"Dainius Zubrus" RW 0 0 0 0 17:09
+
+"Al Montoya" G 0 10 37:01
+"Roberto Luongo" G 5 14 22:47
+
+"Aleksander Barkov" C 0 0 -1 3 17:16
+"Sean Bergenheim" LW 0 0 0 0 10:37
+"Nick Bjugstad" C 0 0 0 0 14:14
+"Dave Bolland" C 0 0 0 1 17:00
+"Brad Boyes" RW 0 0 -1 2 14:59
+"Brian Campbell" D 0 1 -2 1 26:06
+"Aaron Ekblad" D 0 0 -2 1 22:48
+"Tomas Fleischmann" LW 0 0 0 4 11:00
+"Erik Gudbranson" D 0 0 0 3 17:26
+"Jonathan Huberdeau" C 0 0 -1 1 17:01
+"Jussi Jokinen" C 0 0 -1 1 17:31
+"Tomas Kopecky" C 0 0 -2 1 10:55
+"Dmitry Kulikov" D 0 0 -1 3 24:09
+"Derek MacKenzie" C 1 0 -2 1 15:36
+"Willie Mitchell" D 0 0 -1 0 17:40
+"Dylan Olsen" D 0 0 0 1 11:52
+"Shawn Thornton" RW 0 0 -1 4 7:39
+"Scottie Upshall" LW 0 1 0 2 16:13
+
+25 http://www.hockey-reference.com/boxscores/201410110NSH.html 2014-10-11 "Dallas Stars" "Nashville Predators" 1 4
+"Anders Lindback" G 3 32 59:22
+
+"Jamie Benn" LW 0 0 -3 3 18:14
+"Jordie Benn" D 0 0 1 0 21:54
+"Erik Cole" LW 0 0 0 0 11:10
+"Trevor Daley" D 0 1 -3 1 23:23
+"Brenden Dillon" D 0 0 0 2 21:48
+"Cody Eakin" C 0 0 1 1 18:55
+"Vernon Fiddler" C 0 0 0 1 10:16
+"Ryan Garbutt" C 0 1 1 1 16:47
+"Alex Goligoski" D 0 0 -4 0 22:35
+"Ales Hemsky" RW 0 0 -2 1 12:45
+"Shawn Horcoff" C 0 0 0 0 13:09
+"Patrik Nemeth" D 0 0 0 0 14:34
+"Valeri Nichushkin" RW 0 0 -1 0 14:32
+"Jamie Oleksiak" D 0 0 0 0 14:30
+"Antoine Roussel" LW 1 0 1 1 14:29
+"Colton Sceviour" CRW 0 0 -1 1 11:21
+"Tyler Seguin" C 0 0 -3 5 17:02
+"Jason Spezza" C 0 0 -2 1 15:14
+
+"Pekka Rinne" G 1 18 60:00
+
+"Taylor Beck" RW 0 1 2 1 9:21
+"Gabriel Bourque" LW 0 0 -1 1 16:09
+"Mattias Ekholm" D 0 0 -1 0 19:17
+"Ryan Ellis" D 0 0 -1 3 20:49
+"Filip Forsberg" C 0 1 1 3 16:05
+"Paul Gaustad" C 1 1 3 2 10:57
+"Calle Jarnkrok" C 0 0 0 0 12:04
+"Olli Jokinen" C 0 0 0 1 14:01
+"Seth Jones" D 0 0 0 1 18:48
+"Roman Josi" D 1 0 4 2 23:37
+"James Neal" LW 0 0 -1 4 18:46
+"Eric Nystrom" LW 1 2 3 1 12:13
+"Mike Ribeiro" C 0 0 -1 3 18:34
+"Derek Roy" C 0 1 1 3 17:08
+"Craig Smith" C 0 0 1 2 16:58
+"Anton Volchenkov" D 0 0 0 0 14:38
+"Shea Weber" D 1 1 4 4 23:07
+"Colin Wilson" C 0 0 0 2 13:28
+
+26 http://www.hockey-reference.com/boxscores/201410110NYI.html 2014-10-11 "Carolina Hurricanes" "New York Islanders" 3 4
+"Anton Khudobin" G 4 31 58:26
+
+"Patrick Brown" C 0 0 0 2 11:18
+"Patrick Dwyer" RW 0 0 0 1 12:36
+"Justin Faulk" D 0 0 -1 2 25:50
+"Nathan Gerbe" C 0 0 -1 1 16:01
+"Tim Gleason" D 0 0 0 0 14:48
+"Jay Harrison" D 0 0 0 1 12:55
+"John-Michael Liles" D 0 1 0 1 18:55
+"Elias Lindholm" C 0 0 -1 1 16:14
+"Brad Malone" CLW 0 0 0 0 13:19
+"Jay McClement" C 0 0 0 3 15:56
+"Ryan Murphy" D 0 0 0 3 20:35
+"Riley Nash" C 0 0 1 0 12:25
+"Victor Rask" C 0 0 -1 0 17:19
+"Andrej Sekera" D 0 0 -1 0 26:57
+"Alexander Semin" LW 0 2 0 4 19:05
+"Eric Staal" C 0 1 -1 0 14:37
+"Chris Terry" LW 0 0 0 0 8:00
+"Jiri Tlusty" C 3 0 0 5 18:50
+
+"Chad Johnson" G 3 24 59:51
+
+"Josh Bailey" C 1 0 1 1 15:41
+"Johnny Boychuk" D 0 2 0 1 23:55
+"Casey Cizikas" C 0 0 0 4 13:51
+"Cal Clutterbuck" RW 0 0 0 4 12:04
+"Cory Conacher" LW 1 0 0 2 15:57
+"Mikhail Grabovski" C 0 0 0 1 15:23
+"Travis Hamonic" D 0 0 0 1 19:16
+"Thomas Hickey" D 0 0 1 2 20:24
+"Nikolai Kulemin" LW 0 1 1 0 12:34
+"Nick Leddy" D 0 0 1 1 17:12
+"Matt Martin" LW 0 0 0 2 7:23
+"Brock Nelson" C 1 1 0 1 19:23
+"Frans Nielsen" C 0 1 1 2 17:12
+"Kyle Okposo" RW 0 2 0 4 18:49
+"Griffin Reinhart" D 0 0 0 0 14:53
+"Brian Strait" D 0 0 0 0 17:06
+"Ryan Strome" C 0 0 0 2 15:56
+"John Tavares" C 1 1 0 3 17:47
+
+27 http://www.hockey-reference.com/boxscores/201410110PHI.html 2014-10-11 "Montreal Canadiens" "Philadelphia Flyers" 4 3
+"Carey Price" G 3 32 64:30
+
+"Nathan Beaulieu" D 0 0 -1 4 18:33
+"Rene Bourque" RW 0 0 -1 3 12:42
+"David Desharnais" C 0 0 1 2 19:35
+"Lars Eller" C 0 0 -1 3 17:07
+"Alex Galchenyuk" C 1 0 2 4 18:26
+"Brendan Gallagher" RW 0 1 1 4 16:55
+"Tom Gilbert" D 0 0 -1 1 23:29
+"Manny Malhotra" C 0 0 -1 0 9:45
+"Andrei Markov" D 1 2 3 4 27:46
+"Max Pacioretty" LW 0 0 1 3 21:41
+"P.A. Parenteau" LW 0 1 1 3 13:44
+"Tomas Plekanec" C 1 1 2 2 20:16
+"Brandon Prust" LW 0 0 -1 0 7:48
+"Jiri Sekac" LW 0 0 0 0 15:23
+"P.K. Subban" D 0 1 3 3 25:53
+"Jarred Tinordi" D 0 0 -1 1 15:23
+"Mike Weaver" D 0 0 -1 1 17:41
+"Dale Weise" RW 0 0 -1 0 7:38
+
+"Ray Emery" G 3 38 65:00
+
+"Jason Akeson" RW 0 0 0 0 7:34
+"Pierre-Edouard Bellemare" LW 0 0 0 0 13:07
+"Sean Couturier" C 0 0 -1 2 22:50
+"Michael Del Zotto" D 0 1 1 1 14:43
+"Claude Giroux" CRW 0 1 0 4 22:54
+"Nicklas Grossmann" D 0 0 0 2 20:01
+"Vincent Lecavalier" C 0 1 0 3 16:10
+"Andrew MacDonald" D 0 0 -2 1 28:01
+"Michael Raffl" LW 1 0 0 4 15:30
+"Matt Read" RW 0 0 -1 2 18:58
+"Zac Rinaldo" C 0 0 0 1 8:41
+"Brayden Schenn" C 0 1 0 0 12:24
+"Luke Schenn" D 0 0 1 1 13:35
+"Nick Schultz" D 0 0 -2 0 23:37
+"Wayne Simmonds" RW 2 0 0 6 19:39
+"Mark Streit" D 0 1 0 1 24:45
+"R.J. Umberger" C 0 0 -1 1 13:13
+"Jakub Voracek" RW 0 1 0 3 16:18
+
+28 http://www.hockey-reference.com/boxscores/201410110SJS.html 2014-10-11 "Winnipeg Jets" "San Jose Sharks" 0 3
+"Ondrej Pavelec" G 3 26 60:00
+
+"Zach Bogosian" D 0 0 -2 4 23:11
+"Dustin Byfuglien" D 0 0 -1 5 13:28
+"Toby Enstrom" D 0 0 -2 2 24:24
+"Michael Frolik" LW 0 0 -2 0 16:18
+"T.J. Galiardi" LW 0 0 0 1 13:03
+"Matt Halischuk" RW 0 0 0 0 9:16
+"Andrew Ladd" LW 0 0 -2 2 17:57
+"Bryan Little" RW 0 0 -2 3 18:11
+"Adam Lowry" LW 0 0 0 2 12:01
+"Adam Pardy" D 0 0 0 1 16:12
+"Mathieu Perreault" C 0 0 0 0 13:14
+"Paul Postma" D 0 0 0 0 11:55
+"Mark Scheifele" C 0 0 -1 1 16:12
+"Jim Slater" C 0 0 0 0 10:51
+"Mark Stuart" D 0 0 -1 0 19:11
+"Chris Thorburn" RW 0 0 0 2 8:07
+"Jacob Trouba" D 0 0 -1 4 22:11
+"Blake Wheeler" RW 0 0 -1 3 16:18
+
+"Alex Stalock" G 0 30 59:55
+
+"Justin Braun" D 0 0 2 2 18:38
+"Mike Brown" RW 0 0 0 1 4:36
+"Adam Burish" RW 0 0 0 1 9:01
+"Brent Burns" RW 0 1 1 3 25:26
+"Logan Couture" C 0 1 1 3 20:38
+"Jason Demers" D 0 0 0 1 19:52
+"Andrew Desjardins" C 0 0 0 0 10:04
+"Scott Hannan" D 0 0 0 0 12:52
+"Tomas Hertl" C 1 0 1 2 15:36
+"Patrick Marleau" C 1 1 2 4 21:17
+"Tye McGinn" LW 0 0 0 1 12:46
+"Mirco Mueller" D 0 0 1 1 20:53
+"Matthew Nieto" LW 0 1 2 0 15:47
+"Joe Pavelski" C 0 1 1 1 18:29
+"Joe Thornton" C 0 1 1 1 16:58
+"Chris Tierney" C 0 0 1 0 12:34
+"Marc-Edouard Vlasic" D 1 0 2 2 20:36
+"Tommy Wingels" C 0 0 0 3 18:02
+
+29 http://www.hockey-reference.com/boxscores/201410110STL.html 2014-10-11 "Calgary Flames" "St. Louis Blues" 1 4
+"Jonas Hiller" G 4 39 60:00
+
+"Mikael Backlund" C 0 0 0 1 16:29
+"Brandon Bollig" LW 0 0 0 1 11:09
+"Lance Bouma" C 0 0 -1 2 13:56
+"T.J. Brodie" D 0 1 0 4 22:20
+"Paul Byron" C 0 0 -1 3 16:38
+"Joe Colborne" C 0 0 0 0 16:06
+"Deryk Engelland" D 0 0 -1 0 14:31
+"John Gaudreau" LW 0 0 0 0 12:22
+"Mark Giordano" D 0 1 0 1 21:13
+"Curtis Glencross" C 1 0 0 1 16:56
+"Brian McGrattan" RW 0 0 0 1 9:03
+"Sean Monahan" C 0 0 -2 2 16:45
+"Mason Raymond" LW 0 0 0 3 17:02
+"Kris Russell" D 0 0 -2 1 19:57
+"Devin Setoguchi" RW 0 0 -2 0 12:31
+"Ladislav Smid" D 0 0 0 3 20:19
+"Matt Stajan" C 0 0 0 0 11:48
+"Dennis Wideman" D 0 0 -1 1 22:09
+
+"Brian Elliott" G 1 24 59:34
+
+"David Backes" C 1 0 0 3 17:15
+"Jay Bouwmeester" D 0 0 2 1 24:45
+"Ian Cole" D 0 0 0 3 16:02
+"Barret Jackman" D 0 0 0 2 15:47
+"Maxim Lapierre" C 0 0 0 2 13:04
+"Jori Lehtera" C 0 0 1 0 12:54
+"Jordan Leopold" D 0 0 0 0 15:16
+"Joakim Lindstrom" C 1 0 1 3 13:16
+"T.J. Oshie" C 0 0 0 5 16:44
+"Steve Ott" C 0 0 0 0 15:24
+"Alex Pietrangelo" D 1 0 0 3 24:07
+"Chris Porter" C 0 0 0 3 8:52
+"Ryan Reaves" RW 0 0 0 0 9:38
+"Jaden Schwartz" C 0 1 1 3 13:22
+"Kevin Shattenkirk" D 0 3 2 1 21:55
+"Paul Stastny" C 0 3 1 3 17:18
+"Alex Steen" C 0 1 1 2 18:10
+"Vladimir Tarasenko" RW 1 0 1 5 13:56
+
+30 http://www.hockey-reference.com/boxscores/201410110TBL.html 2014-10-11 "Ottawa Senators" "Tampa Bay Lightning" 3 2
+"Robin Lehner" G 2 40 65:00
+
+"Mark Borowiecki" D 0 0 0 2 16:52
+"Cody Ceci" D 0 0 0 2 24:07
+"Alex Chiasson" RW 0 1 0 2 16:55
+"Jared Cowen" D 0 0 1 0 13:37
+"Eric Gryba" D 0 0 0 2 16:47
+"Mike Hoffman" CLW 0 0 0 3 14:55
+"Erik Karlsson" D 1 0 1 5 25:54
+"Curtis Lazar" CRW 0 0 0 0 14:38
+"David Legwand" C 0 0 0 1 16:54
+"Clarke MacArthur" LW 0 0 0 5 18:48
+"Milan Michalek" RW 0 0 0 1 18:43
+"Chris Neil" RW 0 0 0 0 11:13
+"Chris Phillips" D 0 0 0 1 27:18
+"Bobby Ryan" LW 0 1 1 2 16:19
+"Zack Smith" C 0 0 0 2 13:15
+"Mark Stone" RW 1 0 1 2 11:37
+"Kyle Turris" C 0 1 0 3 19:58
+"Mika Zibanejad" C 0 0 1 1 15:50
+
+"Ben Bishop" G 2 34 64:46
+
+"Brian Boyle" C 0 1 1 3 13:09
+"J.T. Brown" RW 0 0 -1 5 13:08
+"Ryan Callahan" RW 0 0 -1 2 20:45
+"Matt Carle" D 0 0 0 2 21:43
+"Brett Connolly" RW 1 0 1 2 8:37
+"Valtteri Filppula" C 0 1 0 3 17:38
+"Jason Garrison" D 0 0 -1 3 20:28
+"Radko Gudas" D 0 0 -1 0 20:08
+"Victor Hedman" D 1 0 0 3 23:06
+"Tyler Johnson" C 0 0 0 1 18:17
+"Alex Killorn" C 0 0 0 3 17:00
+"Nikita Kucherov" RW 0 0 -1 0 12:02
+"Brenden Morrow" LW 0 0 1 1 9:31
+"Vladislav Namestnikov" C 0 0 -1 0 12:02
+"Ondrej Palat" LW 0 0 -1 5 20:55
+"Steven Stamkos" C 0 1 -1 4 23:33
+"Anton Stralman" D 0 0 0 2 22:27
+"Andrej Sustr" D 0 0 0 1 17:45
+
+31 http://www.hockey-reference.com/boxscores/201410110TOR.html 2014-10-11 "Pittsburgh Penguins" "Toronto Maple Leafs" 5 2
+"Marc-Andre Fleury" G 2 25 59:50
+
+"Craig Adams" RW 0 0 0 0 12:25
+"Blake Comeau" RW 0 0 0 1 12:41
+"Sidney Crosby" C 1 2 0 4 16:38
+"Simon Despres" D 0 0 1 1 14:09
+"Steve Downie" RW 0 0 0 0 12:22
+"Pascal Dupuis" LW 0 0 1 5 17:56
+"Christian Ehrhoff" D 0 1 2 3 20:29
+"Marcel Goc" C 0 0 0 2 13:23
+"Patric Hornqvist" RW 1 1 1 9 14:06
+"Chris Kunitz" LW 1 0 0 4 15:14
+"Kris Letang" D 0 2 0 1 21:16
+"Olli Maatta" D 0 0 0 1 17:58
+"Evgeni Malkin" C 1 2 1 3 15:27
+"Paul Martin" D 0 1 1 3 24:09
+"Rob Scuderi" D 0 0 0 0 18:39
+"Zach Sill" C 0 0 1 0 9:42
+"Nick Spaling" C 0 0 1 1 13:01
+"Brandon Sutter" CRW 1 0 1 3 18:50
+
+"Jonathan Bernier" G 5 41 60:00
+
+"Tyler Bozak" C 1 0 0 2 16:31
+"David Clarkson" RW 0 0 0 1 15:16
+"Jake Gardiner" D 0 1 -2 0 23:04
+"Peter Holland" C 0 0 -1 1 10:01
+"Nazem Kadri" C 0 0 -1 1 17:44
+"Phil Kessel" RW 0 0 -1 1 16:51
+"Leo Komarov" C 0 0 0 0 14:58
+"Brandon Kozun" RW 0 0 -1 0 12:05
+"Joffrey Lupul" LW 1 0 -1 5 17:57
+"Richard Panik" RW 0 0 -1 0 8:17
+"Stuart Percy" D 0 1 0 2 20:21
+"Dion Phaneuf" D 0 0 0 2 19:40
+"Roman Polak" D 0 0 0 1 20:49
+"Morgan Rielly" D 0 1 -2 3 21:53
+"Stephane Robidas" D 0 0 0 0 13:33
+"Mike Santorelli" C 0 0 0 0 12:15
+"James van Riemsdyk" LW 0 0 0 4 18:02
+"Daniel Winnik" CLW 0 0 0 2 12:31
+
+32 http://www.hockey-reference.com/boxscores/201410110VAN.html 2014-10-11 "Edmonton Oilers" "Vancouver Canucks" 4 5
+"Viktor Fasth" G 4 43 65:00
+
+"Mark Arcobello" RW 1 1 0 3 14:59
+"Leon Draisaitl" C 0 0 1 0 9:24
+"Jordan Eberle" C 0 0 0 3 20:49
+"Mark Fayne" D 0 1 1 1 19:03
+"Andrew Ference" D 0 0 0 0 21:07
+"Boyd Gordon" C 0 0 0 1 19:57
+"Taylor Hall" LW 0 0 0 5 19:13
+"Matt Hendricks" C 0 0 0 2 14:44
+"Brad Hunt" D 1 0 0 1 21:07
+"Jesse Joensuu" LW 1 0 1 1 13:01
+"Nikita Nikitin" D 0 0 1 0 22:20
+"Ryan Nugent-Hopkins" C 0 0 0 3 19:40
+"David Perron" LW 0 2 -1 2 15:09
+"Jeff Petry" D 0 0 0 3 19:21
+"Benoit Pouliot" LW 0 1 1 0 12:53
+"Teddy Purcell" RW 0 2 -1 1 13:49
+"Justin Schultz" D 0 0 0 1 22:29
+"Nail Yakupov" RW 1 0 1 2 9:50
+
+"Ryan Miller" G 4 29 64:36
+
+"Kevin Bieksa" D 0 0 -2 4 22:16
+"Nick Bonino" C 1 0 1 5 19:37
+"Alexandre Burrows" LW 0 1 1 2 17:06
+"Derek Dorsett" RW 0 0 0 1 8:47
+"Alexander Edler" D 0 1 1 2 23:51
+"Dan Hamhuis" D 0 1 0 1 23:32
+"Jannik Hansen" LW 0 0 0 1 9:46
+"Chris Higgins" LW 0 0 1 3 17:59
+"Zack Kassian" RW 0 0 -2 1 11:15
+"Shawn Matthias" C 0 0 0 1 9:33
+"Brad Richardson" C 0 0 -2 2 13:03
+"Luca Sbisa" D 0 0 -1 1 17:22
+"Daniel Sedin" LW 0 3 0 6 22:49
+"Henrik Sedin" C 1 1 0 3 22:44
+"Ryan Stanton" D 0 0 -1 1 14:47
+"Chris Tanev" D 0 0 1 1 22:11
+"Linden Vey" RW 1 0 -2 3 17:54
+"Radim Vrbata" RW 1 1 0 5 20:37
+
