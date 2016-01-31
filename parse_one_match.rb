@@ -8,9 +8,11 @@ source = open(url).read
 
 nokogiri = Nokogiri::HTML(source)
 
-rows = nokogiri.css("#CGY_skaters tbody tr")
+tables = nokogiri.css("#box [class='sortable  stats_table']")
+rows = tables[0].css("tbody tr")
+#puts rows[0]
 
-rows_goalie = nokogiri.css("#CGY_goalies tbody tr")
+rows_goalie = tables[1].css("tbody tr")
 
 csv_string = CSV.generate do |csv|
 
