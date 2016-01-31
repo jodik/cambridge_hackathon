@@ -8,10 +8,10 @@ source = open(url).read
 
 nokogiri = Nokogiri::HTML(source)
 
+# Read all tables that are of 'sortable  stats_table' class
 tables = nokogiri.css("#box [class='sortable  stats_table']")
-rows = tables[0].css("tbody tr")
-#puts rows[0]
 
+rows_skater = tables[0].css("tbody tr")
 rows_goalie = tables[1].css("tbody tr")
 
 csv_string = CSV.generate do |csv|
@@ -28,8 +28,7 @@ csv_string = CSV.generate do |csv|
 
   csv << []
 
-  rows.each do |row|
-
+  rows_skater.each do |row|
     url_sub = "http://www.hockey-reference.com" + row.css("td:nth-child(2) a").attr("href")
     source_sub = open(url_sub).read
 
@@ -49,7 +48,6 @@ csv_string = CSV.generate do |csv|
       row.css("td:nth-child(15)").text,
       row.css("td:nth-child(18)").text
     ]
-
   end
 
 end
