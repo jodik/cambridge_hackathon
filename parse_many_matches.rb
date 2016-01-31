@@ -4,7 +4,7 @@ require 'csv'
 require 'andand'
 require 'parallel'
 
-dates = (Date.parse('2015-06-10')..Date.parse('2015-06-15')).to_a.map { |date| date.strftime('%Y/%-m/%-d') }
+dates = (Date.parse('2014-10-08')..Date.parse('2015-06-15')).to_a.map { |date| date.strftime('%Y/%-m/%-d') }
 
 row_number = 0
 
